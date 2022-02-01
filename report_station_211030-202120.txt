@@ -1,0 +1,14 @@
+CPU integer performance test.
+Function: if_prime().
+Input system name: 
+station
+Simple:    47.794 s.
+Pool(1):   48.732 s.
+Pool(2):   27.229 s.
+Pool(3):   18.526 s.
+Pool(4):   15.353 s.
+Pool(5):   14.431 s.
+Pool(6):   13.552 s.
+Pool(7):   12.471 s.
+Pool(8):   12.076 s.
+Pool():     11.93 s.

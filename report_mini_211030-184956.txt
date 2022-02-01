@@ -1,0 +1,8 @@
+CPU integer performance test.
+Function: if_prime().
+Input system name: 
+mini
+Simple:   267.112 s.
+Pool(1):  263.901 s.
+Pool(2):  201.372 s.
+Pool():   202.985 s.

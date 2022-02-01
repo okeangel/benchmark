@@ -1,0 +1,10 @@
+CPU integer performance test.
+Function: if_prime().
+Input system name: 
+office
+Simple:    55.076 s.
+Pool(1):   54.684 s.
+Pool(2):   30.387 s.
+Pool(3):   26.694 s.
+Pool(4):   24.395 s.
+Pool():    24.739 s.
