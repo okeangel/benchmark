@@ -25,6 +25,6 @@ pyperformance run -r -o py311a6.json  # --debug-single-value -b nbody
 
 pyenv global 3.10.4
 
-python3 -m pyperf compare_to py30709.json py30810.json py30912.json py31004.json py311a6.json --table > pyperf.txt
+python3 -m pyperf compare_to py30709.json py30810.json py30810-sys.json py30912.json py31004.json py311a6.json --table > pyperf.txt
 
 pyperformance compare --csv pyperf.csv py30709.json py311a6.json
