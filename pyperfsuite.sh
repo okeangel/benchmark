@@ -1,4 +1,8 @@
 
+sudo apt update
+sudo apt upgrade
+sudo apt install python3-pip
+
 pyenv global system
 python3 -m pip install pyperformance
 pyperformance run -r -o py30810-sys.json  # --debug-single-value -b nbody
