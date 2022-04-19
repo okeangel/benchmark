@@ -1,4 +1,3 @@
-
 sudo apt update
 sudo apt upgrade -y
 pyenv update || cd ~/.pyenv && git pull && cd
